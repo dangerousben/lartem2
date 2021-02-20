@@ -1,0 +1,8 @@
+[package]
+name = "lartem"
+version = "0.1.0"
+authors = ["Ben Spencer <dangerous.ben@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libnotcurses-sys = { git = "https://github.com/dankamongmen/notcurses.git" }
